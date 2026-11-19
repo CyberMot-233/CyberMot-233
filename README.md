@@ -78,7 +78,7 @@
 - **Blog** · [cybermot.bomber.asia](https://cybermot.bomber.asia/)
 - **Bilibili** · [@赛博刹那_](https://space.bilibili.com/1818296505)
 - **Steam** · [赛博刹那](https://steamcommunity.com/profiles/76561199543091926/)
-- **Email** · [3418449640@qq.com](mailto:3418449640@qq.com)
+- **Email** · [3418449640@qq.com](mailto:2430589032@qq.com)
 
 <div align="center">
   <sub>记录刹那，连接无限。 · 2026 — ∞</sub>
