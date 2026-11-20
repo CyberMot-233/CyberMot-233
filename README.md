@@ -9,7 +9,7 @@
 <a href="https://cybermot.bomber.asia/"><img src="https://img.shields.io/badge/BLOG-cybermot.bomber.asia-4C8DFF?style=flat-square&logo=rss&logoColor=white" alt="Blog"></a>
 <a href="https://space.bilibili.com/1818296505"><img src="https://img.shields.io/badge/BILIBILI-%E8%B5%9B%E5%8D%9A%E5%88%B9%E9%82%A3_-FB7299?style=flat-square&logo=bilibili&logoColor=white" alt="Bilibili"></a>
 <a href="https://steamcommunity.com/profiles/76561199543091926/"><img src="https://img.shields.io/badge/STEAM-%E8%B5%9B%E5%8D%9A%E5%88%B9%E9%82%A3-1B2838?style=flat-square&logo=steam&logoColor=white" alt="Steam"></a>
-<a href="mailto:3418449640@qq.com"><img src="https://img.shields.io/badge/MAIL-3418449640%40qq.com-2EA44F?style=flat-square&logo=tencentqq&logoColor=white" alt="Email"></a>
+<a href="mailto:2430589032@qq.com"><img src="https://img.shields.io/badge/MAIL-2430589032%40qq.com-2EA44F?style=flat-square&logo=tencentqq&logoColor=white" alt="Email"></a>
 
 <br><br>
 
